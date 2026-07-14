@@ -65,7 +65,7 @@ Target Variable:
 - Churn (Yes / No)
 - After filling in the details, users can click Predict Churn to receive the prediction.
 
-🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 -Python
 -Streamlit
 -FastAPI
