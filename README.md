@@ -80,14 +80,19 @@ Target Variable:
 
 🤖 Machine Learning Model
 
-Algorithm:
--Logistic Regression
+## 🤖 Machine Learning Model
 
-Evaluation Metrics:
--Accuracy
--Precision
--Recall
--F1 Score
+**Algorithm**
+
+- Logistic Regression!
+
+
+### Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
 
 
 ## Installation
