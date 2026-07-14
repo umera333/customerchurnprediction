@@ -4,7 +4,7 @@ A Machine Learning web application that predicts whether a telecom customer is l
 This project predicts whether a telecom customer is likely to churn using Machine Learning.
 
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 Streamlit App:
 https://customerchurnprediction-kgrg.onrender.com
@@ -78,7 +78,7 @@ Target Variable:
 - Render
 - Git & GitHub
 
-🤖 Machine Learning Model
+
 
 ## 🤖 Machine Learning Model
 
