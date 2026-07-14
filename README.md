@@ -66,30 +66,28 @@ Target Variable:
 - After filling in the details, users can click Predict Churn to receive the prediction.
 
 🛠️ Technologies Used
-Python
-Streamlit
-FastAPI
-Scikit-learn
-Pandas
-NumPy
-MLflow
-Docker
-Render
-Git & GitHub
+-Python
+-Streamlit
+-FastAPI
+-Scikit-learn
+-Pandas
+-NumPy
+-MLflow
+-Docker
+-Render
+-Git & GitHub
 
 
 🤖 Machine Learning Model
 
 Algorithm
-
-Logistic Regression
+-Logistic Regression
 
 Evaluation Metrics
-
-Accuracy
-Precision
-Recall
-F1 Score
+-Accuracy
+-Precision
+-Recall
+-F1 Score
 
 
 ## Installation
@@ -135,13 +133,13 @@ docker run -p 8501:8501 customer-churn-app
 ## Screenshots
 
 ### Home Page
-
-![Home](<img width="1895" height="948" alt="Screenshot 2026-07-14 094831" src="https://github.com/user-attachments/assets/0a4747b6-9066-4754-a0bf-ad2287e6b80e" />
-)
+![Home Page](https://github.com/user-attachments/assets/0a4747b6-9066-4754-a0bf-ad2287e6b80e)
 
 ### Prediction Result
 
 ![Prediction](images/prediction.png)
+
+### 📊 MLflow Dashboard
 
 
 ## Future Improvements
