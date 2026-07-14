@@ -173,7 +173,7 @@ docker run -p 8501:8501 customer-churn-app
 
 ## Author
 
-Umera
+Umera Khwaja
 
 GitHub:
 https://github.com/umera333
