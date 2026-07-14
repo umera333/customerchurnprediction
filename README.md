@@ -1,4 +1,4 @@
-                                               📊 Customer Churn Prediction System
+                                             ##  📊 Customer Churn Prediction System
                                                 
 A Machine Learning web application that predicts whether a telecom customer is likely to churn based on customer demographics, account information, and subscribed services.
 This project predicts whether a telecom customer is likely to churn using Machine Learning.
