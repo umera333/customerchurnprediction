@@ -135,11 +135,20 @@ docker run -p 8501:8501 customer-churn-app
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/0a4747b6-9066-4754-a0bf-ad2287e6b80e)
 
+
 ### Prediction Result
 
-![Prediction](images/prediction.png)
+![Prediction Result](https://github.com/user-attachments/assets/YOUR-PREDICTION-LINK)
+
 
 ### 📊 MLflow Dashboard
+
+![MLflow Dashboard](https://github.com/user-attachments/assets/YOUR-MLFLOW-LINK)
+
+
+### ⚡ FastAPI Swagger Documentation
+
+![Swagger API](https://github.com/user-attachments/assets/YOUR-SWAGGER-LINK)
 
 
 ## Future Improvements
