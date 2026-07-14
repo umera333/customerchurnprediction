@@ -1,4 +1,4 @@
-                                                📊 Customer Churn Prediction System
+                                               📊 Customer Churn Prediction System
                                                 
 A Machine Learning web application that predicts whether a telecom customer is likely to churn based on customer demographics, account information, and subscribed services.
 This project predicts whether a telecom customer is likely to churn using Machine Learning.
@@ -63,17 +63,33 @@ The dataset contains customer information such as:
 Target Variable:
 
 - Churn (Yes / No)
+- After filling in the details, users can click Predict Churn to receive the prediction.
 
-## Technologies
+🛠️ Technologies Used
+Python
+Streamlit
+FastAPI
+Scikit-learn
+Pandas
+NumPy
+MLflow
+Docker
+Render
+Git & GitHub
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Streamlit
-- Docker
-- Git
-- GitHub
+
+🤖 Machine Learning Model
+
+Algorithm
+
+Logistic Regression
+
+Evaluation Metrics
+
+Accuracy
+Precision
+Recall
+F1 Score
 
 
 ## Installation
@@ -120,7 +136,8 @@ docker run -p 8501:8501 customer-churn-app
 
 ### Home Page
 
-![Home](images/home.png)
+![Home](<img width="1895" height="948" alt="Screenshot 2026-07-14 094831" src="https://github.com/user-attachments/assets/0a4747b6-9066-4754-a0bf-ad2287e6b80e" />
+)
 
 ### Prediction Result
 
