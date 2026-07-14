@@ -65,18 +65,18 @@ Target Variable:
 - Churn (Yes / No)
 - After filling in the details, users can click Predict Churn to receive the prediction.
 
-## 🛠️ Technologies Used:
--Python
--Streamlit
--FastAPI
--Scikit-learn
--Pandas
--NumPy
--MLflow
--Docker
--Render
--Git & GitHub
+## 🛠️ Technologies Used
 
+- Python
+- Streamlit
+- FastAPI
+- Scikit-learn
+- Pandas
+- NumPy
+- MLflow
+- Docker
+- Render
+- Git & GitHub
 
 🤖 Machine Learning Model
 
