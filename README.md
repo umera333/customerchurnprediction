@@ -181,15 +181,22 @@ https://github.com/umera333
 
 
 
-📊 Customer Churn Prediction System
+## 📖 About
 
-About
-Features
-Project Structure
-Dataset
-Technologies
-Installation
-Docker
-Screenshots
-Future Improvements
-Author
+## ✨ Features
+
+## 📁 Project Structure
+
+## 📊 Dataset
+
+## 🛠️ Technologies
+
+## ⚙️ Installation
+
+## 🐳 Docker
+
+## 📸 Screenshots
+
+## 🚀 Future Improvements
+
+## 👩‍💻 Author
